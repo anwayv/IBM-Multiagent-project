@@ -322,8 +322,12 @@ This will trigger the sequence of tasks:
 - Virtual environment for isolating dependencies
 
 ---
+## Contributors
+- [Ranveersingh Chauhan](https://github.com/Razor123-max)
+- [Satyam Chaurasia](https://github.com/satyaa2212)
+- [Anway Varavdekar](https://github.com/anwayv)
 
-
+---
 ## **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
