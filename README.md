@@ -326,6 +326,9 @@ This will trigger the sequence of tasks:
 - [Ranveersingh Chauhan](https://github.com/Razor123-max)
 - [Satyam Chaurasiya](https://github.com/satyaa2212)
 - [Anway Varavdekar](https://github.com/anwayv)
+- [Shantanu Chavan](https://github.com/shantanuc305)
+- [Karan Bisht](https://github.com/KaranBisht111)
+  
 
 ---
 ## **License**
