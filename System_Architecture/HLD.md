@@ -317,3 +317,4 @@ A **Decision Table** is useful for complex decision-making based on certain cond
 ## **Summary**
 
 This **High-Level Design (HLD)** provides an overview of the architecture, modules, services, and data flow for the Multi-Agent Automation System. The system efficiently extracts data, generates insights, and retrieves resource links with minimal user intervention. By using RAG, LangChain, and Gemini AI API, it enhances the capabilities of automation with advanced data processing and orchestration.
+
